@@ -2,6 +2,6 @@
 
 The Java &amp; Javascript examples
 
-* [Java Demo](/java/demo/README.md)
+* [Java Demo](/java/demo)
 
-* [Javascript Demo](/js/READEME.md)
+* [Javascript Demo](/js)
